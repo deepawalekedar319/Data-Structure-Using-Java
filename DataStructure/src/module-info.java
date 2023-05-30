@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author thakur
- *
- */
-module DataStructure {
-}
